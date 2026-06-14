@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es" class="no-js" data-base="/">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Página no encontrada (404) | Clínica Dental Binai</title>
+<meta name="description" content="La página que buscas no existe. Vuelve al inicio de Clínica Dental Binai en Irun.">
+<meta name="robots" content="noindex, follow">
+<meta name="theme-color" content="#019fab">
+<link rel="icon" type="image/svg+xml" href="/assets/img/favicon.svg">
+<link rel="icon" type="image/png" sizes="48x48" href="/assets/img/favicon-48.png">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="preload" href="/assets/fonts/bricolage-grotesque-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/hanken-grotesk-latin.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/animations.css">
+<style>
+  .notfound{min-height:100vh;display:grid;place-items:center;text-align:center;
+    padding:var(--space-2xl) var(--gutter);
+    background:radial-gradient(120% 90% at 50% 0%, var(--surface-2), var(--bg) 60%)}
+  .notfound__mark{width:clamp(120px,26vw,190px);color:var(--brand);margin-inline:auto}
+  .notfound h1{font-size:clamp(4rem,18vw,9rem);color:var(--brand);line-height:.9;margin-bottom:var(--space-xs)}
+  .notfound p{color:var(--ink-muted);max-width:46ch;margin-inline:auto}
+  .notfound .hero__cta{justify-content:center;margin-top:var(--space-l)}
+  .redirect-note{margin-top:var(--space-m);font-size:var(--step--1);color:var(--ink-soft)}
+  .redirect-note b{color:var(--brand-deep)}
+</style>
+</head>
+<body data-page="404">
+<main id="main" class="notfound">
+  <div>
+    <svg class="notfound__mark svg-float" viewBox="0 0 100 80" aria-hidden="true">
+      <path d="M50 14c-9-10-22-12-30-6C9 16 6 30 12 46c4 11 9 22 14 22 6 0 6-12 12-12s7 12 13 12c5 0 10-12 14-23 6-15 3-29-8-37-8-6-21-3-30 6Z"
+            fill="none" stroke="currentColor" stroke-width="5" stroke-linejoin="round"/>
+      <circle cx="38" cy="34" r="3" fill="currentColor"/><circle cx="62" cy="34" r="3" fill="currentColor"/>
+      <path d="M40 50 Q50 44 60 50" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round"/>
+    </svg>
+    <h1>404</h1>
+    <h2 style="color:var(--brand-ink)">Esta página se nos ha caído como un diente de leche</h2>
+    <p>La dirección que buscas no existe o ha cambiado de sitio. No te preocupes: te llevamos de vuelta al inicio.</p>
+    <div class="hero__cta">
+      <a class="btn btn--lg" href="/index.html"><svg aria-hidden="true"><use href="#i-arrow"/></svg>Volver al inicio</a>
+      <a class="btn btn--ghost btn--lg" href="tel:+34943612831"><svg aria-hidden="true"><use href="#i-phone"/></svg>943 612 831</a>
+    </div>
+    <p class="redirect-note">Redirigiendo al inicio en <b><span id="count">8</span></b> segundos…</p>
+  </div>
+</main>
+
+<script>
+  (function () {
+    var n = 8, el = document.getElementById("count");
+    var t = setInterval(function () {
+      n--; if (el) el.textContent = n;
+      if (n <= 0) { clearInterval(t); window.location.replace("/index.html"); }
+    }, 1000);
+  })();
+</script>
+<script src="/assets/js/partials.js" defer></script>
+<script src="/assets/js/main.js" defer></script>
+</body>
+</html>

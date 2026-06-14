@@ -1,0 +1,117 @@
+# Aviso Legal
+
+Origen: aviso-legal.html
+Title: Aviso legal - Clínica dental Binai en Irun
+Meta description: Clínica Dental Binai en Irun - Tratamientos dentales con tecnología de vanguardia y un equipo de profesionales altamente cualificados.
+H1: AVISO LEGAL
+
+---
+Toggle navigation
+
+CLÍNICA DENTAL EN IRUN
+
+Inicio
+(current)
+
+Clínica Dental
+
+Donde estamos
+
+AVISO LEGAL
+
+DATOS DEL RESPONSABLE
+
+En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico, a continuación, se exponen los datos identificativos del responsable.
+
+Denominación social:
+CLINICA DENTAL BINAI S.L.
+
+C.I.F./N.I.F.:
+B02754380
+
+Domicilio Social:
+Jose Eguino, 2 - 1ºA - 20302 Irún (Gipuzkoa)
+
+Teléfono:
+943 612 831
+
+Correo electrónico:
+clinicadental@gmail.com
+
+PROPIEDAD INTELECTUAL
+
+El código fuente, los diseños gráficos, las imágenes, las fotografías, los sonidos, las animaciones, el software, los textos, así como la información y los contenidos que se recogen en el presente sitio web están protegidos por la legislación española sobre los derechos de propiedad intelectual e industrial a favor de CLINICA DENTAL BINAI S.L. y no se permite la reproducción y/o publicación, total o parcial, del sitio web, ni su tratamiento informático, su distribución, su difusión, ni su modificación, transformación o descompilación, ni demás derechos reconocidos legalmente a su titular, sin el permiso previo y por escrito del mismo CLINICA DENTAL BINAI S.L.
+El usuario/a, única y exclusivamente, puede utilizar el material que aparezca en este sitio web para su uso personal y privado, quedando prohibido su uso con fines comerciales o para incurrir en actividades ilícitas. Todos los derechos derivados de la propiedad intelectual están expresamente reservados por CLINICA DENTAL BINAI S.L.
+
+CLINICA DENTAL BINAI S.L. velará por el cumplimiento de las anteriores condiciones como por la debida utilización de los contenidos presentados en sus páginas web, ejercitándose todas las acciones civiles y penales que le correspondan en el caso de infracción o incumplimiento de estos derechos por parte del usuario/a.
+
+• PROTECCIÓN DE DATOS DE CARÁCTER PERSONAL
+
+Encontrará información detallada sobre el tratamiento de sus datos en el apartado “Política de Privacidad” en esta misma web.
+
+• VARIOS
+
+A.-
+CLINICA DENTAL BINAI S.L. podrá modificar, sin previo aviso, la información contenida en su sitio web, así como su configuración y presentación.
+
+B.-
+CLINICA DENTAL BINAI S.L. se compromete a través de este medio a NO REALIZAR PUBLICIDAD ENGAÑOSA. A estos efectos, por lo tanto, no serán considerados como publicidad engañosa los errores formales o numéricos que puedan encontrarse a lo largo del contenido de las distintas secciones de la web de CLINICA DENTAL BINAI S.L. producidos como consecuencia de un mantenimiento y/o actualización incompleta o defectuosa de la información contenida en estas secciones. CLINICA DENTAL BINAI S.L. como consecuencia de lo dispuesto en este apartado, se compromete a corregirlo tan pronto como tenga conocimiento de dichos errores.
+
+C.-
+CLINICA DENTAL BINAI S.L. se compromete a NO REMITIR COMUNICACIONES COMERCIALES SIN IDENTIFICARLAS COMO TALES, conforme a lo dispuesto en la Ley 34/2002 de Servicios de la Sociedad de la Información y de comercio electrónico. A estos efectos no será considerado como comunicación comercial toda la información que se envíe a las personas interesadas siempre que tenga por finalidad el mantenimiento de la relación existente, así como el desempeño de las tareas de información y otras actividades propias de la entidad.
+
+D.-
+CLINICA DENTAL BINAI S.L. no se hace responsable del incumplimiento de cualquier norma aplicable en que pueda incurrir el usuario/a en su acceso este sitio web y/o en el uso de las informaciones contenidas en el mismo.
+
+E.-
+CLINICA DENTAL BINAI S.L. no será responsable de los daños y perjuicios producidos o que puedan producirse, cualquiera que sea su naturaleza, que se deriven del uso de la información, de las materias contenidas en este web site y de los programas que incorpora. Los enlaces (links) e hipertexto que posibiliten, a través del sitio web, acceder al usuario/a a prestaciones y servicios ofrecidos por terceros, no pertenecen ni se encuentran bajo el control de CLINICA DENTAL BINAI S.L.; dicha entidad no se hace responsable ni de la información contenida en los mismos, ni de cualesquiera efectos que pudieran derivarse de dicha información.
+
+F.-
+CLINICA DENTAL BINAI S.L. no se hace responsable del uso ilegítimo que terceras personas puedan hacer de los nombres de marca, nombres de producto, marcas comerciales que, no siendo propiedad de dicha entidad, aparezcan en el presente sitio web. Tampoco se responsabiliza de la integridad, veracidad y licitud del contenido de los enlaces a las webs a las que pueda accederse desde el presente sitio web.
+
+G.-
+En definitiva, el usuario/a es el único/a responsable del uso que realice de los servicios, contenidos, enlaces (links) e hipertexto incluidos en el sitio web el presente sitio web.
+
+Clínica Dental en Irun
+
+Profesionales odontólogos
+
+TRATAMIENTOS DENTALES
+
+• Implantes dentales
+
+• Estética dental
+
+• Ortodoncia
+
+(Brackets - Invisalign)
+
+• Laboratorio de prótesis dental
+
+• P.A.D.I. Osakidetza
+
+(Programa de Asistencia Dental Infantil)
+
+CONTACTO
+
+943 612 831 / 685 757 042
+
+685 757 042
+
+clinicabinai@gmail.com
+
+José Eguino, 2 - 1ºA
+
+(junto al Ambulatorio de Elitxu)
+
+20302 Irun (Gipuzkoa)
+
+ENLACES LEGALES
+
+Aviso Legal
+
+Política de Privacidad
+
+Política de Cookies
+
+© CLINICA DENTAL BINAI S.L. - Todos los derechos reservados

@@ -1,0 +1,107 @@
+# Inicio (Español)
+
+Origen: index.html
+Title: Clínica dental Binai - Nuestro equipo de dentistas te guiará en el diagnóstico y tratamiento de problemas dentales
+Meta description: Clínica Dental Binai en Irun - Tratamientos dentales con tecnología de vanguardia y un equipo de profesionales altamente cualificados.
+H1: Clínica Dental Binai en Irun
+
+---
+Toggle navigation
+
+CLÍNICA DENTAL EN IRUN
+
+Inicio
+(current)
+
+Clínica Dental
+
+Donde estamos
+
+Clínica Dental Binai en Irun
+
+Uno de los centros odontológicos de referencia en Irun
+
+Clínica dental Binai ofrece en Irun servicios de odontología general, ofreciendo soluciones a los problemas de salud dental y estetica dental de nuestros pacientes.
+Trabajamos todas las especialidades odontológicas con los últimos avances tecnológicos y contamos con unas instalaciones modernas en las que la comodidad y la atención profesional están aseguradas. Nos encontramos junto al ambulatorio de Elitxu.
+
+Nuestro equipo: Profesionales dedicados a tu salud bucal
+
+En Clínica Dental Binai, contamos con un equipo de profesionales, odontólogos y auxiliares altamente cualificados y en constante formación que se encargan de brindarte una atención personalizada y de calidad. Nos apasiona la odontología y estamos comprometidos con tu bienestar bucal.
+
+¿Por qué elegirnos?
+
+En Clínica Dental Binai de Irun, nos diferenciamos por:
+
+• Un equipo de profesionales altamente cualificados y en constante formación.
+
+• Tecnología de vanguardia para diagnósticos precisos y tratamientos efectivos.
+
+• Amplia gama de especialidades para atender cualquier problema bucal.
+
+• Atención personalizada y cercana, adaptándonos a las necesidades de cada paciente.
+
+• Laboratorio de prótesis dental propio para prótesis personalizadas y de alta calidad.
+
+¿Qué tratamientos dentales ofrece Clínica Dental Binai?
+
+Ofrecemos una amplia gama de tratamientos dentales, incluyendo:
+
+• Implantología
+
+• Ortodoncia
+
+• Estética dental
+
+• Odontología general
+
+• Odontología infantil
+
+¿Llevas tiempo sin hacerte una revisión bucal?
+
+No lo retrases más y ven a visitarnos.
+
+Servicios de implantología en Clinica dental Binai - Profesionales Odontólogos en Irun
+
+Clínica Dental en Irun
+
+Profesionales odontólogos
+
+TRATAMIENTOS DENTALES
+
+• Implantes dentales
+
+• Estética dental
+
+• Ortodoncia
+
+(Brackets - Invisalign)
+
+• Laboratorio de prótesis dental
+
+• P.A.D.I. Osakidetza
+
+(Programa de Asistencia Dental Infantil)
+
+CONTACTO
+
+943 612 831 / 685 757 042
+
+685 757 042
+
+clinicabinai@gmail.com
+
+José Eguino, 2 - 1ºA
+
+(junto al Ambulatorio de Elitxu)
+
+20302 Irun (Gipuzkoa)
+
+ENLACES LEGALES
+
+Aviso Legal
+
+Política de Privacidad
+
+Política de Cookies
+
+© CLINICA DENTAL BINAI S.L. - Todos los derechos reservados
