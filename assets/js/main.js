@@ -182,24 +182,6 @@
     });
   }
 
-  /* -------------------------------------------------
-     7 · Cursor-reactive hero glow
-  -------------------------------------------------- */
-  function initHeroGlow() {
-    const glow = document.querySelector(".hero__glow");
-    const hero = document.querySelector(".hero");
-    if (!glow || !hero || reduced || matchMedia("(pointer: coarse)").matches) return;
-    let raf = null;
-    hero.addEventListener("pointermove", (e) => {
-      if (raf) return;
-      raf = requestAnimationFrame(() => {
-        const r = hero.getBoundingClientRect();
-        glow.style.left = e.clientX - r.left + "px";
-        glow.style.top = e.clientY - r.top + "px";
-        raf = null;
-      });
-    });
-  }
 
   /* -------------------------------------------------
      8 · "Abierto ahora" — opening hours status
@@ -237,7 +219,6 @@
     initMobileNav();
     initReveals();
     initCounters();
-    initHeroGlow();
     initOpenStatus();
     initYear();
     if (hasGSAP && window.ScrollTrigger) {

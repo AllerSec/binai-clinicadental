@@ -88,7 +88,6 @@
 .stamp { position: relative; display: inline-grid; place-items: center; }
 .stamp__ring { animation: rotate-slow 28s linear infinite; }
 
-/* cursor-glow follower toggled by JS only */
 @media (prefers-reduced-motion: reduce) {
   .svg-breathe, .svg-float, .svg-sparkle, .svg-heart, .svg-scan, .svg-ripple,
   .svg-draw, .svg-rotate, .stamp__ring { animation: none !important; }
